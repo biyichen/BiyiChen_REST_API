@@ -25,7 +25,7 @@ For Windows user intsall the requests package in python
 python -m pip install requests
 ```
 ## Detail Steps Return the list of Repository with Python:
-#### After you installed the requests package in your python, import the requests packge in either IDLE or Anaconda Notebook (I posted both file on this Repository, you might need the high speeh internet to review the ipynb therefore, I also posted the py file on this Repository). 
+#### After you installed the requests package in your python, import the requests packge in either IDLE or Anaconda Notebook (I posted both file on this Repository(BiyiChenAPI.ipynb and restapi.py), you might need the high speeh internet to review the ipynb therefore, I also posted the py file on this Repository). 
 ```
 import requests 
 ```
