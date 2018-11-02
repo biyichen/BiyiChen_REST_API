@@ -44,5 +44,7 @@ data = r.json()
 for element in data:
  print("Name:%s" %(element['name']))
 ```
+
+## Result in Jupyter Notebook:
 #### The following is the screenshot that I took in the notebook in case you might not be able to open the ipynb file.
 <img src="BIYICHEN_REST_API_NOTEBOOK.png" class="img-responsive img-circle" alt="API">
