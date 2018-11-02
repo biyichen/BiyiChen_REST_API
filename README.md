@@ -1,10 +1,16 @@
 # BiyiChen_REST_API
-#### I used python IDLE and Anaconda Notebook to to return the list of public repositories accessible to my user account. First I need to installed the requests package in the both Anaconda and IDLE. 
+#### I used python IDLE and Anaconda Notebook to to return the list of public repositories accessible to my user account. 
+#### If you used Anaconda Notebook, which is my favorite one. Here is the resource to download.
+(https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda)
+#### Once you finished the download, open the Anaconda and click the jupyter notebook. You can clone the script in your desktop and open the ipynb file in the jupyter notebook. Or you can use the code that I wrote in the following lines into a new script jupyter notebook file to test the code. The view should look like the picture below when you open the Anaconda:
+<img src="jupyternotebook.png" class="img-responsive img-circle" alt="Anaconda">
+
+#### First I need to installed the requests package in the both Anaconda and IDLE. 
 
 ```
 pip install requests
 ```
-#### After you installed the requests package in your python, import the requests packge in either IDLE or Anaconda Notebook (I posted both file on this Repositority, you might need the high speeh internet to review the ipynb therefore, I also posted the py file on this Repositority). 
+#### After you installed the requests package in your python, import the requests packge in either IDLE or Anaconda Notebook (I posted both file on this Repository, you might need the high speeh internet to review the ipynb therefore, I also posted the py file on this Repository). 
 ```
 import requests 
 ```
