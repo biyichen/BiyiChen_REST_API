@@ -14,6 +14,8 @@ For Windows user intsall the requests package in python
 ```
 python -m pip install requests
 ```
+#### Here is the link for downloading the IDLE 3.6.
+(https://www.python.org/downloads/)
 
 #### After you installed the requests package in your python, import the requests packge in either IDLE or Anaconda Notebook (I posted both file on this Repository, you might need the high speeh internet to review the ipynb therefore, I also posted the py file on this Repository). 
 ```
