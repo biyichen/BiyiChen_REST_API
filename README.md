@@ -16,7 +16,7 @@ URL = "https://api.github.com/users/biyichen/repos"
 ```
 r = requests.get(url = URL) 
 ```
-#### Extracting data in json format and only print the name of the user account
+#### Extracting data in json format and only print the name of public repositories in the user account
 ```
 data = r.json() 
   
