@@ -1,5 +1,8 @@
 # BiyiChen_REST_API
 #### I used python IDLE and Anaconda Notebook to to return the list of public repositories accessible to my user account. 
+
+## Installation 
+#### Anaconda Notebook
 #### If you used Anaconda Notebook, which is my favorite one. Here is the resource to download.
 (https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda)
 #### Once you finished the download, open the Anaconda and click the jupyter notebook. You can clone the script in your desktop and open the ipynb file in the jupyter notebook. Or you can use the code that I wrote in the following lines into a new script jupyter notebook file to test the code. The view should look like the picture below when you open the Anaconda:
@@ -14,6 +17,7 @@ For Windows user intsall the requests package in python
 ```
 python -m pip install requests
 ```
+#### IDLE 3.6
 #### Here is the link for downloading the IDLE 3.6.
 (https://www.python.org/downloads/)
 
